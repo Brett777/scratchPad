@@ -1,0 +1,4 @@
+store_name,store_number,address,latitude,longitude,photo_url
+Walmart Supercentre,1001,"123 Example St, Toronto, ON",43.70011,-79.4163,https://via.placeholder.com/150
+Walmart Supercentre,1002,"456 Demo Ave, Ottawa, ON",45.4215,-75.6919,https://via.placeholder.com/150
+Walmart Supercentre,1003,"789 Sample Rd, Vancouver, BC",49.2827,-123.1207,https://via.placeholder.com/150
